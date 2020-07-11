@@ -5,15 +5,15 @@
 
 O que tenho feito nos últimos meses: 
 
-- 💡 Buscando me capacitar na área de Data Science 
+- 💡 Buscado me capacitar na área de Data Science 
 - 📌 Projetos relacionados a Data Science: https://github.com/luislauriano/Data_Science
-- 📝 Construindo artigos para o meu linkedin: https://www.linkedin.com/in/luislauriano/
+- 📝 Construído artigos para o meu linkedin: https://www.linkedin.com/in/luislauriano/
 - 🙈 Jogado League of Legends? 
 
 Sobre mim: 
 
-- 😂 Lead em Memes
-- 💪 🏾Estudando para entrar na área de Data Science 
+- 😂 Especialista em Memes
+- 💪🏾 Estudando para entrar na área de Data Science 
 - 🐍 Python > R 
 - 😍 Apaixonado por tecnologia 
 - 📢 Como se comunicar comigo: https://www.linkedin.com/in/luislauriano/
