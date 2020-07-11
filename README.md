@@ -1,9 +1,6 @@
-### Hello World! Me chamo Luis Vinicius, também conhecido como Tito! Sinta-se em casa e encontre aqui conteúdos de Data Science e Python.  👋
+### Hello World! Me chamo Luis Vinicius, também conhecido como Tito! Sinta-se em casa e encontre aqui conteúdos de Data Science e Python.👋🏾
 
-<!--
-**luislauriano/luislauriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+> Atualmente estou graduando em Gestão da Informação na UFPE, sou um entusiasta em Data Science e desenvolvedor em Python.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
