@@ -6,8 +6,8 @@
 O que tenho feito nos últimos meses: 
 
 - 💡 Buscado me capacitar na área de Data Science 
-- 📌 [Projetos](http://luisvinicius.co) relacionados a Data Science: https://github.com/luislauriano/Data_Science
-- 📝 Construído artigos para o meu linkedin e blog: https://www.linkedin.com/in/luislauriano/ / http://luisvinicius.co/
+- 📌 [Projetos](https://github.com/luislauriano/Data_Science) relacionados a Data Science
+- 📝 Construído artigos para o meu [linkedin](https://www.linkedin.com/in/luislauriano/) e [blog](http://luisvinicius.co/)
 - 🙈 Jogado League of Legends? 
 
 Sobre mim: 
