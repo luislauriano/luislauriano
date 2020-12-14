@@ -13,10 +13,11 @@ Hello World, para quem não me conhece, me chamo Luis Vinicius, também conhecid
 
 Foi no mesmo ano de 2019 que me despertou o interesse na área da Ciência de dados, onde desde junho do mesmo ano venho trilhando os caminhos para me tornar um bom profissional na área e ingressar no mercado de trabalho. Atualmente sou graduando em Gestão da Informação na UFPE, entusiasta em Ciência de Dados (um quase Cientista de Dados) e um desenvolvedor apaixonado por Python.
 
-**Links:**
+---
 
-* [LinkedIn](https://www.linkedin.com/in/luislauriano)
-* [Blog pessoal](http://luisvinicius.me)
+[Repositório de Data Science](https://github.com/luislauriano/Data_Science) | [Linkedin](https://www.linkedin.com/in/luislauriano) | [Blog pessoal](http://luisvinicius.me)
+
+
 
 
 
