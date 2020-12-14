@@ -87,21 +87,4 @@ Mais artigos em [linkedin](https://www.linkedin.com/in/luislauriano) e [blog](ht
 
 ---
 
-
-
-O que tenho feito nos últimos meses: 
-
-- 💡 Buscando me capacitar na área de Data Science 
-- 📌 [Projetos](https://github.com/luislauriano/Data_Science) relacionados a Data Science
-- 📝 Construído artigos para o meu [linkedin](https://www.linkedin.com/in/luislauriano/) e [blog](http://luisvinicius.me/)
-- 🙈 Jogado League of Legends? 
-
-Sobre mim: 
-
-- 😂 Especialista em Memes
-- 💪🏾 Estudando para entrar na área de Data Science 
-- 🐍 Python > R 
-- 😍 Apaixonado por tecnologia 
-- 📢 Como se comunicar comigo: https://www.linkedin.com/in/luislauriano/
-
 > Made with 💖 by Luis Vinicius
