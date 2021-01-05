@@ -17,6 +17,17 @@ Foi no mesmo ano de 2019 que me despertou o interesse na área da Ciência de da
 
 ---
 
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislauriano&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=luislauriano&theme=buefy" /></td>
+    </tr>   
+  </table>
+</center>  
+
+
 ## Projetos:
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science e Machine Learning.
