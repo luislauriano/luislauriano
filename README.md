@@ -19,18 +19,6 @@ Tenho conhecimento na linguagem Python e suas principais bibliotecas para se tra
 
 
 
-
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislauriano&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=luislauriano&theme=buefy" /></td>
-    </tr>   
-  </table>
-</center>  
-
-
-
 [![](https://img.shields.io/badge/blog-orange)](https://luisvinicius.me)
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/luislauriano/)
 
