@@ -87,15 +87,11 @@ Essa aplicação foi construída com streamlit, framework do python destinado a 
 
 Essas são minhas partipações em eventos ou encontros de tecnologia, palestrando sobre Ciência de Dados. 
 
-* **[O que acontece se juntar Spotify & Python & Data Science - Python Brasil 2020](http://luisvinicius.me/como_coletar_dados_do_spo_1.html)**:
+* **[O que acontece se juntar Spotify & Python & Data Science - Python Brasil 2020](https://youtu.be/WKIhTSt9Rw4?list=PLDC3uVLxaEQ1WSPtxRdtZk9hdnR6Zmod2)**:
 Na palestra foi apresentada a API do Spotify e como ela pode ser útil para nós desenvolvedores e principalmente profissionais da área de dados. A partir disso, foi visto como se pode coletar e analisar os dados do Spotify, apenas utilizando a linguagem de programação Python.
 
 * **[Ciência de Dados e como Manter Boas Práticas ao construir Visualizações de Dados - Semana de Tecnologia - Faculdade Uninassau](https://drive.google.com/file/d/1EkEcB4WO4ggZTJzeFr817qpnvRRwOe5D/view?usp=sharing)**:
 A palestra apresentada na semana de tecnologia da faculdade Uninassau, teve como objetivo introduzir os alunos nesse mundo da Ciência de Dados. Sendo falado sobre a ciência de dados nos dias atuais, o fato de ser uma área interdisciplinar e não estar ligada apenas a área de tecnologia, como os alunos poderiam dar os seus primeiros passos para conseguir entrar no mercado da ciência de dados e como se deve manter boas práticas ao construir visualizações de dados.
-
-
-* **[Boas Práticas de Visualização de Dados e como Aplicar com Python - Coronga Meet - Comunidade DataPeste](https://drive.google.com/file/d/1VQjUsxmmShvrfBjMwB8OU93ZAoKMsCCo/view?usp=sharing)**:
-A palestra teve como objetivo falar sobre como manter boas prátricas ao construir visualizações de dados, mostrar que visualização de dados não é tao simples quanto parece e que existem problemas que nem sempre são vistos ao interpretar um gráfico, problemas que voltaram a surgir devido a necessidade que a mídia teve de criar gráficos por conta do novo coronavírus.
 
 ---
 
@@ -103,19 +99,20 @@ A palestra teve como objetivo falar sobre como manter boas prátricas ao constru
 
 Esses são alguns dos artigos que escrevi para o meu [blog](http://luisvinicius.me/) e [linkedin](https://www.linkedin.com/in/luislauriano), em meu blog você pode encontrar artigos mais técnicos, enquanto no linkedin os artigos costumam ter mais insights dos projetos e dores enfretadas ao construí-lo com um caráter mais opinativo e informal.
 
+* **[Sistema de Recomendação e a Netflix](https://www.linkedin.com/pulse/sistema-de-recomenda%C3%A7%C3%A3o-e-netflix-luis-vinicius/)**:
+Com o avanço da tecnologia estamos cada vez mais familiarizados com esse tipo de sistema, mesmo sem saber sobre o seu funcionamento, e os sistemas de recomendações acabaram se tornando muito importantes na indústria online de vendas de sites como Amazon, Submarino e no ramo de entretenimento, mais especificamente os serviços de streaming como Youtube e Netflix, por causa da sua capacidade de influenciar as escolhas dos usuários.
+
+
 * **[Spotify & Python & Data Science - Como Coletar os Dados do Spotify com Python](http://luisvinicius.me/posts/como_coletar_dados_do_spo_1.html)**:
 A coleta de dados é a primeira etapa de todo projeto de Data Science, caso seja optado por não coletar um conjunto de dados já pronto, devemos procurar fontes de dados que possam ser uteis para construir nossa base de dados e das fontes extrair os dados.
 
 
+* **[Spotify & Python & Data Science - Construindo uma Aplicação com Python + Deploy com Heroku](https://www.linkedin.com/pulse/spotify-python-data-science-construindo-uma-com-deploy-vinicius/)**:
+Esse artigo é um recorte do meu projeto Spotify & Python & Data Science - Analisando os Dados do Artista NexoAnexo. Após finalizar o projeto, tive como objetivo construir com Streamlit uma aplicação em que eu pudesse apresentar gráficos e insights que foram retirados do projeto, de uma forma mais apresentável além do Google Colab e Jupyter Notebook.
+
 * **[A manopla do Cientista de Dados](http://luisvinicius.me/posts/manopla1.html)**:
 Um cientista e dados também pode ter a sua a sua manopla, levando em consideração o uso da linguagem Python, a mais popular para Data Science nos dias atuais. Com ela em mãos e o seu conhecimento na área de negócios, matemática, estatística e ademais.
 
-* **[A manopla 2.0 do Cientista de Dados](http://luisvinicius.me/posts/manopla2.html)**:
-Um cientista de dados também pode ter a sua a sua manopla do infinito 2.0, entretanto, diferente da primeira manopla que foi considerado apenas o uso da linguagem Python e suas bibliotecas para sua construção, a manopla 2.0 do cientista de dados é algo que vai além das joias, ou melhor, bibliotecas do Python para trabalhar com Data Science.
-
-
-* **[O que é, o que é? Data Science ou Business Intelligence](http://abre.ai/dsoubi)**:
-Todo jovem especialista em dados que tem o primeiro contato com as áreas de Business Intelligence e Data Science, fica na dúvida de pôr qual área se iniciar os estudos para começar a trabalhar com dados ou qual a diferença das áreas? Nesse artigo falei um pouco sobre esses e outros questionamentos que surgem, para que você possa por um ultimato e diferenciar as áreas de Business Intelligence e Data Science.
 
 
 
