@@ -1,4 +1,4 @@
-### Hello World! Me chamo Luis Vinicius, também conhecido como Tito! Sinta-se em casa e encontre aqui conteúdos de Data Science e Python.👋🏾
+### Hello World! Me chamo Luis Vinicius, também conhecido como Tito! Sinta-se em casa e encontre aqui conteúdos de Data Science, Machine Learning e Python.👋🏾
 
 [![author](https://img.shields.io/badge/author-LuisVinicius-red.svg)](https://www.linkedin.com/in/luislauriano/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/luislauriano/data_science)
 
