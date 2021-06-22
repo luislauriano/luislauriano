@@ -46,7 +46,7 @@ O projeto teve como objetivo realizar uma análise de dados dos álbuns do Spoti
 Durante o mês de março, na China o número de casos recuperados já eram maiores do que o número de casos confirmados, entretanto, países como Estados Unidos e Coreia do Sul, ainda tinham seus número de casos de mortes maiores do que o de casos recuperados e para países como Canadá e Brasil, ainda era tudo muito novo. Nessa breve análise dos dados do covid-19 no período de 22/01 ao 09/03, pude identificar e alertar o número de casos crescentes de mortes em países como Estados Unidos, antes mesmo do pico alto do vírus.
 
 * **[Machine Learning para detecção do Câncer de Mama:](https://github.com/luislauriano/Data_Science/tree/master/Detec%C3%A7%C3%A3o%20do%20C%C3%A2ncer%20de%20Mama)**
-Nesse projeto de Data Science foi construido um simples modelo de Machine Learning capaz de detectar o câncer de mama. 
+Nesse projeto de Machine Learning foi construído um simples modelo de Machine Learning com o objetivo de detectar a presença do câncer de mama. 
 
 *  **[Análise Exploratória de Dados com Streamlit:](https://gentle-bayou-96352.herokuapp.com/)**
 Essa aplicação foi construída com streamlit, framework do python destinado a criação de aplicação/dashboard. A aplicação faz uma análise exploratória inicial dos dados através de métodos estatísticos e visualização de dados, também aproveitei para inserir algumas explicações estatísticas na aplicação.
