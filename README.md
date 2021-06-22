@@ -45,21 +45,11 @@ O projeto teve como objetivo realizar uma análise de dados dos álbuns do Spoti
 * **[O que não te contaram sobre o coronavírus: Uma análise de dados do covid-19:](https://github.com/luislauriano/Data_Science/tree/master/Covid-19)**
 Durante o mês de março, na China o número de casos recuperados já eram maiores do que o número de casos confirmados, entretanto, países como Estados Unidos e Coreia do Sul, ainda tinham seus número de casos de mortes maiores do que o de casos recuperados e para países como Canadá e Brasil, ainda era tudo muito novo. Nessa breve análise dos dados do covid-19 no período de 22/01 ao 09/03, pude identificar e alertar o número de casos crescentes de mortes em países como Estados Unidos, antes mesmo do pico alto do vírus.
 
-* **[Modelo preditivo para ocorrência de diabetes:](https://github.com/luislauriano/Data_Science/tree/master/Previs%C3%A3o%20de%20Ocorr%C3%AAncia%20de%20Diabetes)**
-Com base no conjunto de dados do Instituto Nacional de Diabetes e Doenças Digestivas e Renaisé foi construido um simples modelo capaz de prever se uma paciente grávida tem ou não diabete, com base em certas medidas de diagnóstico incluídas no conjunto de dados. 
-
-* **[Manipulando e tratando dados para gerar indicadores á empresa:](https://github.com/luislauriano/Data_Science/tree/master/Gera%C3%A7%C3%A3o%20de%20Indicadores)**
-O objetivo do projeto foi fazer o tratamento e manipulação dos dados de arquivos em XLSX e CSV da empresa Bemol, para gerar um único conjunto de dados em xlsx, que irá servir como relatório e indicador para a empresa.
-
-* **[Análise de dados do Airbnb da cidade do Rio de Janeiro:](https://github.com/luislauriano/Data_Science/tree/master/Airbnb%20Rio%20de%20Janeiro)**
-A cidade do Recife, é uma das cidades que mais atraem turistas durante o período de carnaval no Brasil. Porém, a cidade do Rio de Janeiro no ano de 2020 esteve entre as três cidades mais procuradas para curtir o período carnavalesco, sendo 2 milhões de turistas esperados para curtir a maratona carnavalesca, logo a um crescimento na rede de hotelaria. Além disso, quando vamos viajar, sempre pensamos qual seria o melhor hotel, a melhor localização e o custo beneficio. Pensando nisso, foi feita uma análise exploratória dos dados de uma das maiores empresas hoteleira da atualidade, o Airbnb, utilizando o dataset disponibilizado pela própria empresa.
-
 * **[Machine Learning para detecção do Câncer de Mama:](https://github.com/luislauriano/Data_Science/tree/master/Detec%C3%A7%C3%A3o%20do%20C%C3%A2ncer%20de%20Mama)**
 Nesse projeto de Data Science foi construido um simples modelo de Machine Learning capaz de detectar o câncer de mama. 
 
 *  **[Análise Exploratória de Dados com Streamlit:](https://gentle-bayou-96352.herokuapp.com/)**
 Essa aplicação foi construída com streamlit, framework do python destinado a criação de aplicação/dashboard. A aplicação faz uma análise exploratória inicial dos dados através de métodos estatísticos e visualização de dados, também aproveitei para inserir algumas explicações estatísticas na aplicação.
-
 
 
 ---
