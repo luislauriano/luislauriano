@@ -11,9 +11,12 @@
 
 [Repositório de Data Science](https://github.com/luislauriano/Data_Science) | [Linkedin](https://www.linkedin.com/in/luislauriano) | [Blog pessoal](http://luisvinicius.me)
 
-Hello World, para quem não me conhece, me chamo Luis Vinicius, também conhecido como Tito e tenho 19 anos. Apesar de sempre admirar a área de tecnologia, meu interesse pela área se intensificou em 2016 quando almejei trabalhar na Riot Games, empresa criadora do League of Legends, após ver um vídeo no YouTube sobre a empresa e seus funcionários. No ano de 2018 conclui o ensino médio e já tinha decidido que realmente queria seguir na área da tecnologia, então em 2019 fui aprovado no vestibular para o curso de Gestão da Informação da Universidade Federal de Pernambuco onde atualmente estou graduando.
+Hello World, para quem não me conhece, me chamo Luis Vinicius, também conhecido como Tito e tenho 20 anos. Apesar de sempre admirar a área de tecnologia, meu interesse pela área se intensificou em 2016 quando almejei trabalhar na Riot Games, empresa criadora do League of Legends, após ver um vídeo no YouTube sobre a empresa e seus funcionários. No ano de 2018 conclui o ensino médio e já tinha decidido que realmente queria seguir na área da tecnologia, então em 2019 fui aprovado no vestibular para o curso de Gestão da Informação da Universidade Federal de Pernambuco onde atualmente estou graduando.
 
-Foi no mesmo ano de 2019 que me despertou o interesse na área da Ciência de dados, onde desde junho do mesmo ano venho trilhando os caminhos para me tornar um bom profissional na área e ingressar no mercado de trabalho. Atualmente sou graduando em Gestão da Informação na UFPE, entusiasta em Ciência de Dados (um quase Cientista de Dados) e um desenvolvedor apaixonado por Python.
+Foi no mesmo ano de 2019 que me despertou o interesse na área da Ciência de dados, onde desde junho do mesmo ano venho trilhando os caminhos para me tornar um bom profissional na área e ingressar no mercado de trabalho. Atualmente estou graduando em Gestão da Informação na UFPE, sou Cientista de Dados e um programador apaixonado por Python.
+
+Tenho conhecimento na linguagem Python e suas principais bibliotecas para se trabalhar com Data Science e Machine Learning, além de conhecimento em Machine e Deep Learning, SQL, Sistemas de Gerenciamento de Banco de dados Relacionais, estatística para Data Science e Power BI.
+
 
 
 
@@ -109,10 +112,6 @@ A coleta de dados é a primeira etapa de todo projeto de Data Science, caso seja
 
 * **[Spotify & Python & Data Science - Construindo uma Aplicação com Python + Deploy com Heroku](https://www.linkedin.com/pulse/spotify-python-data-science-construindo-uma-com-deploy-vinicius/)**:
 Esse artigo é um recorte do meu projeto Spotify & Python & Data Science - Analisando os Dados do Artista NexoAnexo. Após finalizar o projeto, tive como objetivo construir com Streamlit uma aplicação em que eu pudesse apresentar gráficos e insights que foram retirados do projeto, de uma forma mais apresentável além do Google Colab e Jupyter Notebook.
-
-* **[A manopla do Cientista de Dados](http://luisvinicius.me/posts/manopla1.html)**:
-Um cientista e dados também pode ter a sua a sua manopla, levando em consideração o uso da linguagem Python, a mais popular para Data Science nos dias atuais. Com ela em mãos e o seu conhecimento na área de negócios, matemática, estatística e ademais.
-
 
 
 
