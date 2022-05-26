@@ -9,7 +9,7 @@
 # Luis Vinicius
 
 
-[Repositório de Data Science](https://github.com/luislauriano/Data_Science) | [Linkedin](https://www.linkedin.com/in/luislauriano) 
+[My Data Science Repository](https://github.com/luislauriano/Data_Science) | [Linkedin](https://www.linkedin.com/in/luislauriano) 
 
 A crazy on the piece of data science, critic of national rap songs and maker of tech stuff.
 
@@ -21,7 +21,6 @@ I have knowledge in Python, JavaScript, Git, SQL, PostgreSQL, MySQL, Power BI an
 
 
 
-[![](https://img.shields.io/badge/blog-orange)](https://luisvinicius.me)
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/luislauriano/)
 
 ---
@@ -39,9 +38,11 @@ The objective of the project was to perform a data analysis of the Spotify album
    **[Repository/Application source code](https://github.com/luislauriano/Aplicacao_NexoAnexo)**
    
    **[Project Application/Dashboard](http://analise-nexoanexo.herokuapp.com/)** 
-  
    
-After publicizing the project and the application developed with Streamlit on Linkedin, Product Marketing Ted Ricks from Streamlit found my application and in his words said "Really enjoyed your app- wanted to let you know it was included in this week's Weekly Roundup on our community forum Streamlit", Therefore, the application was included in the **[weekly summary 29/11/2020](https://discuss.streamlit.io/t/weekly-roundup-agraph-components-streambackmachines-text-generation-tutorials-and-more/7640)** from the Streamlit community in the apps topic of the week. 
+   After publicizing the project and the application developed with Streamlit on Linkedin, Product Marketing Ted Ricks from Streamlit found my
+   application and in his words said "Really enjoyed your app- wanted to let you know it was included in this week's Weekly Roundup on our community
+   forum Streamlit", Therefore, the application was included in the **[weekly summary 29/11/2020](https://discuss.streamlit.io/t/weekly-roundup-agraph
+   components-streambackmachines-text-generation-tutorials-and-more/7640)** from the Streamlit community in the apps topic of the week. 
 
                                                                                                                                                          
 * **[What they didn't tell you about the coronavirus: An analysis of covid-19 data:](https://github.com/luislauriano/Data_Science/tree/master/Covid-19)**
@@ -56,36 +57,36 @@ This application was built with streamlit, a python framework for creating an ap
 
 ---
 
-## Palestras:
+## Speeches:
 
-Essas são minhas partipações em eventos ou encontros de tecnologia, palestrando sobre Ciência de Dados. 
+These are my participations in technology events or meetings, speaking about Data Science. 
 
-* **[O que acontece se juntar Spotify & Python & Data Science - Python Brasil 2020](https://youtu.be/WKIhTSt9Rw4?list=PLDC3uVLxaEQ1WSPtxRdtZk9hdnR6Zmod2)**:
-Na palestra foi apresentada a API do Spotify e como ela pode ser útil para nós desenvolvedores e principalmente profissionais da área de dados. A partir disso, foi visto como se pode coletar e analisar os dados do Spotify, apenas utilizando a linguagem de programação Python.
+* **[What happens if you join Spotify and Python and Data Science - Python Brazil 2020](https://youtu.be/WKIhTSt9Rw4?list=PLDC3uVLxaEQ1WSPtxRdtZk9hdnR6Zmod2)**:
+In the lecture, the Spotify API was presented and how it can be useful for us developers and especially data professionals. From this, it was seen how to collect and analyze Spotify data, just using the Python programming language.
 
-* **[Ciência de Dados e como Manter Boas Práticas ao construir Visualizações de Dados - Semana de Tecnologia - Faculdade Uninassau](https://drive.google.com/file/d/1EkEcB4WO4ggZTJzeFr817qpnvRRwOe5D/view?usp=sharing)**:
-A palestra apresentada na semana de tecnologia da faculdade Uninassau, teve como objetivo introduzir os alunos nesse mundo da Ciência de Dados. Sendo falado sobre a ciência de dados nos dias atuais, o fato de ser uma área interdisciplinar e não estar ligada apenas a área de tecnologia, como os alunos poderiam dar os seus primeiros passos para conseguir entrar no mercado da ciência de dados e como se deve manter boas práticas ao construir visualizações de dados.
+* **[Data Science and How to Maintain Good Practices When Building Data Visualizations - Technology Week - University Uninassau](https://drive.google.com/file/d/1EkEcB4WO4ggZTJzeFr817qpnvRRwOe5D/view?usp=sharing)**:
+The lecture presented at Uninassau College Technology Week aimed to introduce students to this world of Data Science. Being talked about data science nowadays, the fact that it is an interdisciplinary area and not just linked to the technology area, how students could take their first steps to get into the data science market and how to maintain good practices when building data visualizations.
 
 ---
 
-## Artigos:
+## Articles:
 
-Esses são alguns dos artigos que escrevi para o meu [blog](http://luisvinicius.me/) e [linkedin](https://www.linkedin.com/in/luislauriano), em meu blog você pode encontrar artigos mais técnicos, enquanto no linkedin os artigos costumam ter mais insights dos projetos e dores enfretadas ao construí-lo com um caráter mais opinativo e informal.
+These are some of the articles I wrote for my [linkedin](https://www.linkedin.com/in/luislauriano), on linkedin, my articles tend to have more insights from the projects, curiosities and doubts about data science, machine learning and pains faced when building projects with a more opinionated and informal character.
 
-* **[Sistema de Recomendação e a Netflix](https://www.linkedin.com/pulse/sistema-de-recomenda%C3%A7%C3%A3o-e-netflix-luis-vinicius/)**:
-Com o avanço da tecnologia estamos cada vez mais familiarizados com esse tipo de sistema, mesmo sem saber sobre o seu funcionamento, e os sistemas de recomendações acabaram se tornando muito importantes na indústria online de vendas de sites como Amazon, Submarino e no ramo de entretenimento, mais especificamente os serviços de streaming como Youtube e Netflix, por causa da sua capacidade de influenciar as escolhas dos usuários.
-
-
-* **[Spotify & Python & Data Science - Como Coletar os Dados do Spotify com Python](http://luisvinicius.me/posts/como_coletar_dados_do_spo_1.html)**:
-A coleta de dados é a primeira etapa de todo projeto de Data Science, caso seja optado por não coletar um conjunto de dados já pronto, devemos procurar fontes de dados que possam ser uteis para construir nossa base de dados e das fontes extrair os dados.
+* **[Recommendation System and Netflix](https://www.linkedin.com/pulse/sistema-de-recomenda%C3%A7%C3%A3o-e-netflix-luis-vinicius/)**:
+With the advancement of technology, we are increasingly familiar with this type of system, even without knowing how it works, and recommendation systems have become very important in the online sales industry of sites such as Amazon, Submarino and in the entertainment business. , more specifically streaming services like Youtube and Netflix, because of their ability to influence users' choices.
 
 
-* **[Spotify & Python & Data Science - Construindo uma Aplicação com Python + Deploy com Heroku](https://www.linkedin.com/pulse/spotify-python-data-science-construindo-uma-com-deploy-vinicius/)**:
-Esse artigo é um recorte do meu projeto Spotify & Python & Data Science - Analisando os Dados do Artista NexoAnexo. Após finalizar o projeto, tive como objetivo construir com Streamlit uma aplicação em que eu pudesse apresentar gráficos e insights que foram retirados do projeto, de uma forma mais apresentável além do Google Colab e Jupyter Notebook.
+* **[Spotify & Python and Data Science - How to Collect Spotify Data with Python](http://luisvinicius.me/posts/como_coletar_dados_do_spo_1.html)**:
+Data collection is the first step of every Data Science project, if we choose not to collect a ready-made dataset, we must look for data sources that can be useful to build our database and extract the data from the sources.
+
+
+* **[Spotify and Python and Data Science - Building an Application with Python + Deploy with Heroku](https://www.linkedin.com/pulse/spotify-python-data-science-construindo-uma-com-deploy-vinicius/)**:
+This article is an excerpt from my project Spotify & Python & Data Science - Analyzing Artist Data NexoAnnexo. After finishing the project, I aimed to build with Streamlit an application in which I could present graphics and insights that were taken from the project, in a more presentable way beyond Google Colab and Jupyter Notebook.
 
 
 
-Mais artigos em [linkedin](https://www.linkedin.com/in/luislauriano) e [blog](http://luisvinicius.me/)
+More articles in [linkedin](https://www.linkedin.com/in/luislauriano)
 
 ---
 
