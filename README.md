@@ -15,7 +15,7 @@ A crazy on the piece of data science, critic of national rap songs and maker of 
 
 For those who don't know me, my name is Luis Vinicius, also known as Tito and I'm 21 years old. Despite always admiring the area of technology, my interest in the area intensified in 2016 when I wanted to work at Riot Games, the company that created League of Legends. In 2018 I finished high school and had already decided that I really wanted to continue in the area of technology, so in 2019 I passed the entrance exam for the Information Management course at the Federal University of Pernambuco where I am currently graduating. It was in the same year, 2019, that I became interested in the python programming language and in the area of data science and artificial intelligence, where since then I have been treading a path to become a good professional in the area and become a reference.
 
-I am currently majoring in Information Management at UFPE, I am a Data Scientist Jr at Data Rudder and I help people who use and work with data through [el tito lab] (https://sites.google.com/view/eltitolab/in%C3%ADcio).
+I am currently majoring in Information Management at UFPE, I am a Data Scientist Jr at Data Rudder and I help people who use and work with data through [el tito lab](https://sites.google.com/view/eltitolab/in%C3%ADcio).
 
 I have knowledge in Python, JavaScript, Git, SQL, PostgreSQL, MySQL, Power BI and Data Studio, libraries for data science and machine learning such as: Pandas; Numpy ; Scikit-learn ; Plotly ; Pycaret and SciPy, Pyspark, Tensorflow and knowledge about Machine learning (model building and deployment), Deep learning, AWS and Agile Methodologies.
 
