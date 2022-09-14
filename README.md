@@ -11,14 +11,23 @@
 
 [My Data Science Repository](https://github.com/luislauriano/Data_Science) | [Linkedin](https://www.linkedin.com/in/luislauriano) 
 
-A crazy on the piece of data science, critic of national rap songs and maker of tech stuff.
+A data science nutcase, fearless young man, rap listener and thinking about ethics, fairness in the use of algorithms and development of machine learning models.
 
-For those who don't know me, my name is Luis Vinicius, also known as Tito and I'm 21 years old. Despite always admiring the area of technology, my interest in the area intensified in 2016 when I wanted to work at Riot Games, the company that created League of Legends. In 2018 I finished high school and had already decided that I really wanted to continue in the area of technology, so in 2019 I passed the entrance exam for the Information Management course at the Federal University of Pernambuco where I am currently graduating. It was in the same year, 2019, that I became interested in the python programming language and in the area of data science and artificial intelligence, where since then I have been treading a path to become a good professional in the area and become a reference.
+Currently finishing my degree in Information Management at UFPE, I am a Data Scientist Jr at Data Rudder, I have worked on projects in the area of ​​fraud, finance, credit and collection with large clients, I have studied data engineering, ethics/algorithmic justice (area of ​​my interest in AI) and I am building the el tito lab, focused on studies , projects, data science content and a thought in ethics and algorithmic justice. (www.eltitolab.live)
 
-I am currently majoring in Information Management at UFPE, I am a Data Scientist Jr at Data Rudder and I help people who use and work with data through [el tito lab](https://www.eltitolab.live/).
+KNOWLEDGE IN:
+ - Programming languages: Python, R and JavaScript.
+ - Analytics: SQL, PostgreSQL, MySQL, Power BI, Data Studio and Qlik.
+ - The custom to use for DS and ML: Pandas, Scikit-learn, Plotly, Pyspark, Pycaret, SciPy, NumPy, regression and classification algorithms..
+ - Extra knowledge: Agile methodologies, Tensorflow, construction/deployment of ML models and Deep learning.
 
-I have knowledge in Python, JavaScript, Git, SQL, PostgreSQL, MySQL, Power BI and Data Studio, libraries for data science and machine learning such as: Pandas; Numpy ; Scikit-learn ; Plotly ; Pycaret and SciPy, Pyspark, Tensorflow and knowledge about Machine learning (model building and deployment), Deep learning, AWS and Agile Methodologies.
+BASIC KNOWLEDGE ABOUT DATA ENGINEERING:
+ - Data Pipelines with Apache Airflow; Spark
+ - Understanding of concepts: ETL, ELT, Data lakes, Data Warehouse, Batch and Streaming
+ - Big data with hadoop and beehive
+ - AWS: S3, Sagemaker, Amazon EMR, Athena and Glue
 
+For those who don't know me, my name is Luis Vinicius, also known as Tito and I'm 21 years old. Despite always admiring the area of ​​technology, my interest in the area intensified in 2016 when I wanted to work at Riot Games, the company that created League of Legends. In 2018, the medium and already had the necessary technology to follow the Information Management course at the Federal University of Pernambuco where I am currently graduating. It was in the same year of 2019 that I became interested in the python programming language in the area of ​​data science and artificial intelligence, where since then I have been treading a path to become a good professional in the area and become a reference.
 
 
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/luislauriano/)
