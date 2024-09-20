@@ -51,14 +51,15 @@ For those who don't know me, my name is Luis Vinicius, also known as Tito and I'
   
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/015a513f-2916-40ef-beaf-62212886f6d9" width="300"></td>
+    <td><img src="https://media.tenor.com/cis3WNJsKDEAAAAM/champions-world-cup-champions.gif" width="300"></td>
     <td>
       <ul>
-        <li>🥈 <strong>2024</strong> - Winner (2nd place) Hackathon Campus Party Nordeste: Jaiminho, Desafio Correios</li>
+        <li>🥇 <strong>2023</strong> - Winner Hello Future: International hackathon organized by Hedera and AngelHack</li>
+        <li>🥈 <strong>2024</strong> - Winner (2nd place) Hackathon Campus Party Nordeste: Jaiminho, Correios Challenge</li>
         <li>🏅 <strong>2024</strong> - Project selected at Campus Mobile (Smart Cities category): Recreate, Claro Brasil</li>
         <li>🥇 <strong>2023</strong> - Winner (1st place) Hackathon Hacker Cidadão: Recria, Emprel, Recife City Hall</li>
         <li>🥉 <strong>2023</strong> - Winner (3rd place) Hackathon Campus Party Goiás: EduWatch, Campus Party</li>
-        <li>🥉 <strong>2023</strong> - Winner (1st place) Mover Program: UFPE Information Technology Center Program</li>
+        <li>🥇 <strong>2023</strong> - Winner (1st place) Mover Program: UFPE Information Technology Center Program</li>
       </ul>
     </td>
   </tr>
