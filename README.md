@@ -65,6 +65,55 @@ For those who don't know me, my name is Luis Vinicius, also known as Tito and I'
   </tr>
 </table>
 
+### 📚 Projects built in innovation and technology competitions
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/gabygraciano/Previsao-de-Tipos-de-Consumo-com-Tkinter-e-Machine-Learning">
+        <img src="https://github.com/user-attachments/assets/d211f06a-a12a-40fa-b264-1d11260da981" alt="Athena" width="150">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/marcelopetroni/RecTeam">
+        <img src="https://github.com/user-attachments/assets/883ff0ff-0b0c-4961-a9a8-c7e293873643" alt="EduWatch" width="150">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/marcelopetroni/RedeRecife">
+        <img src="https://github.com/user-attachments/assets/9438d7a3-8a9e-4423-a4a3-7118b173f6b2" alt="Recria" width="150">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/marcelopetroni/MedPlus">
+        <img src="https://github.com/user-attachments/assets/79d50578-ebf9-4787-b842-c48cf9a2cbcb" alt="RotulAi" width="150">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sergioluisfilho/RotulAI">
+        <img src="https://github.com/user-attachments/assets/43208b20-e342-4ad6-9537-e27228642205" alt="Med+" width="150">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/GustavoHLMA/Recria-Client">
+        <img src="https://github.com/user-attachments/assets/71aa51ab-d4db-4f41-9ffb-725c81096e3" alt="Rede Recife" width="150">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.behance.net/gallery/193931305/EDUWATCH-(UXUI-Design)">
+        <img src="https://private-user-images.githubusercontent.com/157065002/365376876-1e91716b-d3c5-4fee-8154-b8f7e601583b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY4NTg3MjEsIm5iZiI6MTcyNjg1ODQyMSwicGF0aCI6Ii8xNTcwNjUwMDIvMzY1Mzc2ODc2LTFlOTE3MTZiLWQzYzUtNGZlZS04MTU0LWI4ZjdlNjAxNTgzYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkyMFQxODUzNDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OGViZjk4OGE3ZDIwODFkZGRhOTNjY2VhNWYzYWI4NDM0MWI0MGQ4YTMzNDVmNWI5OWI5ZGVkMTMwZWJjMzVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9sRVpWMAFAe5sahUdb5tCNptnJ1aBA-X2os4rVT768o" alt="Viva CN" width="150">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DanielEmidio1988/athena">
+        <img src="https://github.com/user-attachments/assets/3b0978fd-b07a-4554-abae-6eec7725c2a5" alt="Modelo de Previsão" width="150">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ## Machine Learning Projects:
 
