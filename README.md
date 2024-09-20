@@ -12,10 +12,10 @@
 [My Data Science Repository](https://github.com/luislauriano/Data_Science) | [Linkedin](https://www.linkedin.com/in/luislauriano) 
 
 A data science nut, fearless young man, rap listener and researching ethics, biases and justice in the use of algorithms and development of machine learning models. 
+Graduated in Information Management at UFPE, I am a Data Engineer at Fundação 1bi, studying for a master's degree in Computer Science at the UFPE IT Center (researching ethics, biases and algorithmic justice in machine learning), I have been studying data engineering, and created contents at el tito lab.
+
 
 As a data engineer at the 1BI Foundation, I am responsible for building the architecture and data pipeline of the 1BI Foundation's products and developing data analysis for an educational platform that aims to support thousands of teachers in preparing classes.
-
-Graduated in Information Management at UFPE, I am a Data Engineer at Fundação 1bi, studying for a master's degree in Computer Science at the UFPE IT Center (researching ethics, biases and algorithmic justice in machine learning), I have been studying data engineering, and created contents at el tito lab.
 
 As a Junior Data Scientist at Data Rudder, I worked on projects in the areas of fraud, finance, health, credit and collection with large clients.
 
