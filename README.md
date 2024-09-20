@@ -145,6 +145,18 @@ This application was built with streamlit, a python framework for creating an ap
 
 These are my participations in technology events or meetings, speaking about Data Science. 
 
+* **[Speaker (Python Nordeste 2024) - Data balancing with Python to mitigate sampling and algorithmic biases](https://drive.google.com/file/d/1btvxsS71d7COUs4NvKZ-liJvO60n0l6L/view?usp=sharing)**:
+The lecture aims to present an experiment by building a classification model with data balancing, balancing data from groups such as gender and race, using techniques such as smote, undersampling and oversampling in unfair datasets that have imbalances in the data classes and the final evaluate the model with and without balancing.
+
+* **[Speaker (AfroPython 2023)- How to build an ML model capable of predicting possible results of the 2022 World Cup](https://drive.google.com/file/d/1MriJIvEmAsrxITfucp36BZFMtK3icRyb/view?usp=drive_link)**:
+It was discussed how it was built and how it is possible to build a model capable of predicting possible results and winner of the 2022 World Cup using Python and its libraries focused on data science and FIFA data extraction.
+
+* **[Speaker (Global Latinx tech Conference by GitHub) 2022 - How to build an ML model capable of predicting possible results of the 2022 World Cup](https://drive.google.com/file/d/1T2SOrl79ufMS4NxZOTufaroD7UmCBVZW/view?usp=sharing)**:
+It was discussed how it was built and how it is possible to build a model capable of predicting possible results and winner of the 2022 World Cup using Python and its libraries focused on data science and FIFA data extraction.
+
+* **[The first three months of 2020 - Python analysis of the first impact of covid-19 - Python North East 2022](https://drive.google.com/file/d/1K9MBVQ8Izp-TevcEIAnKRDcko4DhmaxW/view?usp=sharing)**:
+It was a lecture to present the results of the analysis carried out with Python on covid-19 data from 01/22/2020 to 03/09/2020, a period in which some countries such as China had already suffered a major impact from covid-19.
+
 * **[What happens if you join Spotify and Python and Data Science - Python Brazil 2020](https://youtu.be/WKIhTSt9Rw4?list=PLDC3uVLxaEQ1WSPtxRdtZk9hdnR6Zmod2)**:
 In the lecture, the Spotify API was presented and how it can be useful for us developers and especially data professionals. From this, it was seen how to collect and analyze Spotify data, just using the Python programming language.
 
