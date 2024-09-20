@@ -56,7 +56,7 @@ For those who don't know me, my name is Luis Vinicius, also known as Tito and I'
       <ul>
         <li>🥇 <strong>2024</strong> - Winner Hello Future: International hackathon organized by Hedera and AngelHack</li>
         <li>🥈 <strong>2024</strong> - Winner (2nd place) Hackathon Campus Party Nordeste: Jaiminho, Correios Challenge</li>
-        <li>🏅 <strong>2024</strong> - Project selected at Campus Mobile (Smart Cities category): Recreate, Claro Brasil</li>
+        <li>🏅 <strong>2024</strong> - Project selected at Campus Mobile (Smart Cities category): Recria, Claro Brasil</li>
         <li>🥇 <strong>2023</strong> - Winner (1st place) Hackathon Hacker Cidadão: Recria, Emprel, Recife City Hall</li>
         <li>🥉 <strong>2023</strong> - Winner (3rd place) Hackathon Campus Party Goiás: EduWatch, Campus Party</li>
         <li>🥇 <strong>2019</strong> - Winner (1st place) Mover Program: UFPE Information Technology Center Program</li>
