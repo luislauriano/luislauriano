@@ -103,7 +103,7 @@ For those who don't know me, my name is Luis Vinicius, also known as Tito and I'
     </td>
     <td>
       <a href="https://www.behance.net/gallery/193931305/EDUWATCH-(UXUI-Design)">
-        <img src="https://private-user-images.githubusercontent.com/157065002/365376876-1e91716b-d3c5-4fee-8154-b8f7e601583b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY4NTg3MjEsIm5iZiI6MTcyNjg1ODQyMSwicGF0aCI6Ii8xNTcwNjUwMDIvMzY1Mzc2ODc2LTFlOTE3MTZiLWQzYzUtNGZlZS04MTU0LWI4ZjdlNjAxNTgzYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkyMFQxODUzNDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OGViZjk4OGE3ZDIwODFkZGRhOTNjY2VhNWYzYWI4NDM0MWI0MGQ4YTMzNDVmNWI5OWI5ZGVkMTMwZWJjMzVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9sRVpWMAFAe5sahUdb5tCNptnJ1aBA-X2os4rVT768o" alt="Viva CN" width="150">
+        <img src="" alt="Viva CN" width="150">
       </a>
     </td>
     <td>
