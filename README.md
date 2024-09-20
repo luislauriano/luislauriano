@@ -84,6 +84,7 @@ For those who don't know me, my name is Luis Vinicius, also known as Tito and I'
         <img src="https://github.com/user-attachments/assets/43208b20-e342-4ad6-9537-e27228642205" alt="RotulAI" width="150">
       </a>
     </td>
+    <tr>
     <td>
       <a href="https://github.com/GustavoHLMA/Recria-Client">
         <img src="https://github.com/user-attachments/assets/71aa51ab-d4db-4f41-9ffb-725c81096e37" alt="Recria" width="150">
@@ -94,8 +95,6 @@ For those who don't know me, my name is Luis Vinicius, also known as Tito and I'
         <img src="https://github.com/user-attachments/assets/f89f2f89-a322-4c9e-8fea-14dd89cf87f4" alt="EduWatch" width="150">
       </a>
     </td>
-  </tr>
-  <tr>
   
    <td>
       <a href="https://github.com/DanielEmidio1988/athena">
