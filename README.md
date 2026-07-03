@@ -11,33 +11,8 @@
 
 [My Data Science Repository](https://github.com/luislauriano/Data_Science) | [Linkedin](https://www.linkedin.com/in/luislauriano) 
 
-A data science nut, fearless young man, rap listener and researching ethics, biases and justice in the use of algorithms and development of machine learning models. 
-Graduated in Information Management at UFPE, I am a Data Engineer at Fundação 1bi, studying for a master's degree in Computer Science at the UFPE IT Center (researching ethics, biases and algorithmic justice in machine learning), I have been studying data engineering, and created contents at el tito lab.
-
-
-As a data engineer at the 1BI Foundation, I am responsible for building the architecture and data pipeline of the 1BI Foundation's products and developing data analysis for an educational platform that aims to support thousands of teachers in preparing classes.
-
-As a Junior Data Scientist at Data Rudder, I worked on projects in the areas of fraud, finance, health, credit and collection with large clients.
-
-KNOWLEDGE IN:
- - Programming languages: Python, R and JavaScript.
- - Analytics: SQL, PostgreSQL, MySQL, Power BI, Data Studio and Qlik.
- - What I usually use for DS and ML: Pandas, Scikit-learn, Plotly, Pyspark, Pycaret, SciPy, NumPy, 
- regression and classification algorithms. 
- - Extra knowledge: Agile methodologies, Tensorflow, building/deploying ML models and 
- Deep learning. 
-
-KNOWLEDGE ABOUT DATA ENGINEERING:
-- Pipeline orchestration with: Apache Airflow and Prefect
-- Data processing with Spark on data bricks
-- Big data with hadoop and hive
-- Understanding of concepts: ETL, ELT, Data lakes, Data Warehouse, Batch and Streaming
-- Data visualization integration with Metabase 
-- AWS databases: AWS RDS (Aurora) and AWS Dynamo DB
-- Data lakehouse with AWS: S3 and Athena 
-- Data ingestion with Airbyte and AWS Kinesis
-- Data transformation with DBT
-- Other AWS tools: Sagemaker, Amazon EMR and Glue (As a data crawler)
+I hold a degree in Information Management and a Master’s degree in Computer Science from the Federal University of Pernambuco (UFPE), with a focus on ethics, perspectives, and fairness in machine learning models and programming languages. I currently work as a Data Engineer at Globo, responsible for building and maintaining data architecture and pipelines for the organization's products (GloboID). Previously, I worked as a Data Engineer at Fundação 1Bi, where I was responsible for building and maintaining data architecture and pipelines for the organization's products. I also have prior experience as a Junior Data Scientist at Data Rudder, working on cross-functional projects across sectors such as fraud, finance, healthcare, credit, and collections for major clients.
+I possess solid knowledge of programming languages ​​such as Python and JavaScript, as well as extensive experience with data science and machine learning tools and libraries, including Scikit-learn, Pandas, PySpark, SciPy, NumPy, PyCaret, and TensorFlow, among others. In the field of data engineering, I have experience with pipeline orchestration (Apache Airflow and Prefect), data processing using Spark (Databricks) and DBT (DBT+Athena, DBT+DuckDB, DBT+Spark), integration with visualization tools (Metabase), data testing with DBT and Elementary, relational and non-relational databases (PostgreSQL, MySQL, AWS RDS, DynamoDB), data ingestion using Airbyte and AWS Kinesis, data transformation with DBT, and the use of AWS services such as S3, Redshift, Athena, Glue, EMR, and SageMaker.
 
 For those who don't know me, my name is Luis Vinicius, also known as Tito and I'm 23 years old. Despite always admiring the area of ​​technology, my interest in the area intensified in 2016 when I wanted to work at Riot Games, the company that created League of Legends. In 2018, the medium and already had the necessary technology to follow the Information Management course at the Federal University of Pernambuco where I am currently graduating. It was in the same year of 2019 that I became interested in the python programming language in the area of ​​data science and artificial intelligence, where since then I have been treading a path to become a good professional in the area and become a reference.
 
