@@ -4,7 +4,7 @@
 
 <h1 align="center">Luis Vinicius aka Tito👋🏾</h1>
 
-<h3 align="center"> Research and Data Engineer | M.Sc. in Computer Science - UFPE </h3>
+<h3 align="center"> Research and Data Engineer | MSc. in Computer Science - UFPE </h3>
 
 
 <p align="center">
