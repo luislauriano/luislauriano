@@ -9,7 +9,7 @@
 
 <p align="center">
   <em>
-Traveller, skater, runner, international affairs enthusiast and passionate about education and knowledge transfer.
+
     
 My research area focuses on bias mitigation in supervised machine learning models and large language models. I explore how ethical and fairness principles can be integrated into the evaluation and construction of fairer models, with the goal of identifying, measuring, and mitigating biases to promote more equitable outcomes in technology. 
 
