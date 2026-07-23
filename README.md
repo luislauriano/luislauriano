@@ -17,11 +17,11 @@ As a data engineer, I have been responsible for building and maintaining high-le
   </em> 
   
   <p align="center">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1pNmk2ZmY4MG5pN2cwNHJsMHB5NGxkNGdvMzRldXhneWkwbTk2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kYurVMWlsc7OWWg3jb/giphy.gif" width="500" height="300" />
+ <img src="https://media2.giphy.com/media/EhzWrhGlYuvug/giphy.gif?cid=ecf05e47uqzfbh84p0msk2kh3z0520tvyi03bmpnsifmvqwa&rid=giphy.gif&ct=g" width="500" height="300" />
     <p align="center">
 
 
-  <a href = 'https://github.com/Rodrigo-Motta'>
+
     
     
    <!--<img src = "https://github-readme-stats.vercel.app/api?username=Rodrigo-Motta&show_icons=true&theme=react"> <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Motta&layout=compact&theme=react'> -->
