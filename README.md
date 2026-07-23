@@ -17,7 +17,7 @@ As a data engineer, I have been responsible for building and maintaining high-le
   </em> 
   
   <p align="center">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk4cDg0a2wzcXpiNDBqbzg5dDNqNm9qZ3poc2oxbmk4Zml6MzI2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SLBr5yLzocSYw/giphy.gif" width="500" height="300" />
+ <img src="https://i.makeagif.com/media/9-18-2019/_ky8CH.gif" width="500" height="300" />
     <p align="center">
 
 
