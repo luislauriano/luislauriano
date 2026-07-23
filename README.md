@@ -11,13 +11,9 @@
   <em>
 Traveller, skater, runner, international affairs enthusiast and passionate about education and knowledge transfer.
     
-As a Data Scientist, my professional identity meets at the intersection of AI, Cognition, real-world applications, and innovation, bringing together data science, business experience and collaboration. 
+AMy research area focuses on bias mitigation in supervised machine learning models and large language models. I explore how ethical and fairness principles can be integrated into the evaluation and construction of fairer models, with the goal of identifying, measuring, and mitigating biases to promote more equitable outcomes in technology. 
 
-Alongside this, I'm a writer and content creator driven by a passion for communicating and sparking curiosity about Data Science, Artificial Intelligence, Physics, and Neuroscience. Community building and interdisciplinarity is central to my approach.
-
-I deeply value diversity, empathy, and respect.
-
-And remember: creativity thrives when we occasionally increase our entropy!
+As a data engineer, I have been responsible for building and maintaining high-level data architectures and pipelines.
   </em> 
   
   <p align="center">
