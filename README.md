@@ -12,7 +12,7 @@
 My research area focuses on bias mitigation in supervised machine learning models and large language models. I explore how ethical and fairness principles can be integrated into the evaluation and construction of fairer models, with the goal of identifying, measuring, and mitigating biases to promote more equitable outcomes in technology. 
 
   
-As a data engineer, I have been responsible for building and maintaining high-level data architectures and pipelines.
+ As a data engineer, I have been responsible for building and maintaining high-level data architectures and pipelines.
   </em> 
   
   <p align="center">
