@@ -2,162 +2,36 @@
 
 [![author](https://img.shields.io/badge/author-LuisVinicius-red.svg)](https://www.linkedin.com/in/luislauriano/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/luislauriano/data_science)
 
+<h1 align="center">Rodrigo here</h1>
+
+<h3 align="center">Data Scientist | Physicist | Investigating brains, minds and machines </h3>
+
+
 <p align="center">
-  <img src="https://i.imgur.com/8gqbbxf.png" width = 100%>
-</p>
+  <em>
+Traveller, skater, runner, international affairs enthusiast and passionate about education and knowledge transfer.
+    
+As a Data Scientist, my professional identity meets at the intersection of AI, Cognition, real-world applications, and innovation, bringing together data science, business experience and collaboration. 
 
-# Luis Vinicius
+Alongside this, I'm a writer and content creator driven by a passion for communicating and sparking curiosity about Data Science, Artificial Intelligence, Physics, and Neuroscience. Community building and interdisciplinarity is central to my approach.
 
+I deeply value diversity, empathy, and respect.
 
-[My Data Science Repository](https://github.com/luislauriano/Data_Science) | [Linkedin](https://www.linkedin.com/in/luislauriano) 
-
-Professional with a degree in Information Management and a Master’s degree in Computer Science from the Federal University of Pernambuco (UFPE), with a focus on ethics, perspectives, and fairness in machine learning models and programming languages. I currently work as a Data Engineer at Globo, responsible for building and maintaining data architecture and pipelines for the organization's products (GloboID). Previously, I worked as a Data Engineer at Fundação 1Bi, where I was responsible for building and maintaining data architecture and pipelines for the organization's products. I also have prior experience as a Junior Data Scientist at Data Rudder, working on cross-functional projects across sectors such as fraud, finance, healthcare, credit, and collections for major clients.
-I possess solid knowledge of programming languages ​​such as Python and JavaScript, as well as extensive experience with data science and machine learning tools and libraries, including Scikit-learn, Pandas, PySpark, SciPy, NumPy, PyCaret, and TensorFlow, among others. In the field of data engineering, I have experience with pipeline orchestration (Apache Airflow and Prefect), data processing using Spark (Databricks) and DBT (DBT+Athena, DBT+DuckDB, DBT+Spark), integration with visualization tools (Metabase), data testing with DBT and Elementary, relational and non-relational databases (PostgreSQL, MySQL, AWS RDS, DynamoDB), data ingestion using Airbyte and AWS Kinesis, data transformation with DBT, and the use of AWS services such as S3, Redshift, Athena, Glue, EMR, and SageMaker.
-
-For those who don't know me, my name is Luis Vinicius, also known as Tito and I'm 23 years old. Despite always admiring the area of ​​technology, my interest in the area intensified in 2016 when I wanted to work at Riot Games, the company that created League of Legends. In 2018, the medium and already had the necessary technology to follow the Information Management course at the Federal University of Pernambuco where I am currently graduating. It was in the same year of 2019 that I became interested in the python programming language in the area of ​​data science and artificial intelligence, where since then I have been treading a path to become a good professional in the area and become a reference.
-
-
-[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/luislauriano/)
-
----
-### 🏆 Achievements in innovation and technology competitions
+And remember: creativity thrives when we occasionally increase our entropy!
+  </em> 
   
+  <p align="center">
+ <img src="https://media2.giphy.com/media/EhzWrhGlYuvug/giphy.gif?cid=ecf05e47uqzfbh84p0msk2kh3z0520tvyi03bmpnsifmvqwa&rid=giphy.gif&ct=g" width="500" height="300" />
+    <p align="center">
+
+
+  <a href = 'https://github.com/Rodrigo-Motta'>
+    
+    
+   <!--<img src = "https://github-readme-stats.vercel.app/api?username=Rodrigo-Motta&show_icons=true&theme=react"> <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Motta&layout=compact&theme=react'> -->
+    
 </div>
-  
-<table>
-  <tr>
-    <td><img src="https://media.tenor.com/cis3WNJsKDEAAAAM/champions-world-cup-champions.gif" width="300"></td>
-    <td>
-      <ul>
-        <li>🥇 <strong>2024</strong> - Winner Hello Future: International hackathon organized by Hedera and AngelHack</li>
-        <li>🥈 <strong>2024</strong> - Winner (2nd place) Hackathon Campus Party Nordeste: Jaiminho, Correios Challenge</li>
-        <li>🏅 <strong>2024</strong> - Project selected at Campus Mobile (Smart Cities category): Recria, Claro Brasil</li>
-        <li>🥇 <strong>2023</strong> - Winner (1st place) Hackathon Hacker Cidadão: Recria, Emprel, Recife City Hall</li>
-        <li>🥉 <strong>2023</strong> - Winner (3rd place) Hackathon Campus Party Goiás: EduWatch, Campus Party</li>
-        <li>🥇 <strong>2019</strong> - Winner (1st place) Mover Program: UFPE Information Technology Center Program</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
-### 📚 Projects built in innovation and technology competitions
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/GustavoHLMA/strayhome-client/tree/main">
-        <img src="https://github.com/GustavoHLMA/strayhome-client/blob/main/src/assets/strayhome2.png" alt="StrayHome" width="150">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/luislauriano/jAIminho?tab=readme-ov-file">
-        <img src="https://private-user-images.githubusercontent.com/157065002/365376876-1e91716b-d3c5-4fee-8154-b8f7e601583b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE3MjY5NzUsIm5iZiI6MTczMTcyNjY3NSwicGF0aCI6Ii8xNTcwNjUwMDIvMzY1Mzc2ODc2LTFlOTE3MTZiLWQzYzUtNGZlZS04MTU0LWI4ZjdlNjAxNTgzYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExNlQwMzExMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00N2EyMjMwNGJhMWRhYzA3Njg1YzVkMDg4ZjYyM2E2ODA4NTg0OTRiYzBiMDg2NWU5YjkwYjUwYzVjYmU0NjRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.J5LbtTjpugR0YnFhAVCoJX3cSLGFXraDmhBNUalCK6I" alt="jAIminho" width="150">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/sergioluisfilho/RotulAI">
-        <img src="https://github.com/user-attachments/assets/43208b20-e342-4ad6-9537-e27228642205" alt="RotulAI" width="150">
-      </a>
-    </td>
-    <tr>
-    <td>
-      <a href="https://github.com/GustavoHLMA/Recria-Client">
-        <img src="https://github.com/user-attachments/assets/71aa51ab-d4db-4f41-9ffb-725c81096e37" alt="Recria" width="150">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.behance.net/gallery/193931305/EDUWATCH-(UXUI-Design)">
-        <img src="https://github.com/user-attachments/assets/f89f2f89-a322-4c9e-8fea-14dd89cf87f4" alt="EduWatch" width="150">
-      </a>
-    </td>
-  
-   <td>
-      <a href="https://github.com/DanielEmidio1988/athena">
-        <img src="https://github.com/user-attachments/assets/3b0978fd-b07a-4554-abae-6eec7725c2a5" alt="Modelo de Previsão" width="150">
-      </a>
-    </td>
-   
-  </tr>
-</table>
-
-
-## Machine Learning Projects:
-
-Here you can find the notebooks of my projects in the area of Data Science and Machine Learning.
-
-* **[Machine learning project to predict possible outcomes of 2022 world cup matches:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
-Machine learning project to predict possible outcomes of 2022 world cup matches: This is a project for the purposes of curiosity and machine learning study, with the aim of developing a model capable of predicting possible outcomes of the 2022 World Cup matches, until reaching the result of the grand winner of the championship.
-
-* **[League of Legends and Data Science – Predicting match results:](https://github.com/luislauriano/Data_Science/tree/master/Prevendo%20Partidas%20de%20League%20of%20Legends)**
-This Machine Learning project, defined as an end-to-end project, aimed to go from collecting match data to building a machine learning model, to predict the chances of the team that is playing on the blue side. on the side of the map win. Performing steps such as: Pre-processing and data analysis, dimensionality reduction and selection of variables, and construction of both a model completed with XGBClassifier, and construction of a logistic regression model from the results obtained from AutoML with Pycaret.
-
-* **[Spotify & Python and Data Science – Data Analysis of Artist NexoAnexo Albums:](https://github.com/luislauriano/Data_Science/tree/master/Spotify%20%26%20Python%20%26%20Data%20Science)**
-The objective of the project was to perform a data analysis of the Spotify albums by the artist NexoAnexo, going through the main steps of a data analysis. Being, data collection, pre-processing, exploration and visualization of the data. Finally, after the analysis was completed, an application/dashboard was built with Python and the application was made available on the web through heroku. Another objective is that from the conclusions made from the analysis of the data of the songs of the albums, factors that help or contribute to an album or song to be more successful and how this can be used in future releases could be identified.
-
-   **[Repository/Application source code](https://github.com/luislauriano/Aplicacao_NexoAnexo)**
-   
-   **[Project Application/Dashboard](http://analise-nexoanexo.herokuapp.com/)** 
-   
-   After publicizing the project and the application developed with Streamlit on Linkedin, Product Marketing Ted Ricks from Streamlit found my
-   application and in his words said "Really enjoyed your app- wanted to let you know it was included in this week's Weekly Roundup on our community
-   forum Streamlit", Therefore, the application was included in the **[weekly summary 29/11/2020](https://discuss.streamlit.io/t/weekly-roundup-agraph
-   components-streambackmachines-text-generation-tutorials-and-more/7640)** from the Streamlit community in the apps topic of the week. 
-
-                                                                                                                                                         
-* **[What they didn't tell you about the coronavirus: An analysis of covid-19 data:](https://github.com/luislauriano/Data_Science/tree/master/Covid-19)**
-During the month of March, in China, the number of recovered cases were already greater than the number of confirmed cases, however, countries such as the United States and South Korea still had their number of cases of deaths greater than the number of recovered cases. and for countries like Canada and Brazil, it was still very new. In this brief analysis of covid-19 data from 01/22 to 03/09, I was able to identify and alert the number of increasing cases of deaths in countries like the United States, even before the high peak of the virus.
-
-* **[Machine Learning for breast cancer detection:](https://github.com/luislauriano/Data_Science/tree/master/Detec%C3%A7%C3%A3o%20do%20C%C3%A2ncer%20de%20Mama)**
-In this Machine Learning project, a simple Machine Learning model was built in order to detect the presence of breast cancer. 
-
-*  **[Exploratory Data Analysis with Streamlit:](https://gentle-bayou-96352.herokuapp.com/)**
-This application was built with streamlit, a python framework for creating an application/dashboard. The application makes an initial exploratory analysis of the data through statistical methods and data visualization, I also took the opportunity to insert some statistical explanations in the application.
-
-
----
-
-## Speeches:
-
-These are my participations in technology events or meetings, speaking about Data Science. 
-
-* **[Speaker (Northeast Python 2024) - Data balancing with Python to mitigate sampling and algorithmic biases](https://drive.google.com/file/d/1btvxsS71d7COUs4NvKZ-liJvO60n0l6L/view?usp=sharing)**:
-The lecture aims to present an experiment by building a classification model with data balancing, balancing data from groups such as gender and race, using techniques such as smote, undersampling and oversampling in unfair datasets that have imbalances in the data classes and the final evaluate the model with and without balancing.
-
-* **[Speaker (AfroPython 2023)- How to build an ML model capable of predicting possible results of the 2022 World Cup](https://drive.google.com/file/d/1MriJIvEmAsrxITfucp36BZFMtK3icRyb/view?usp=drive_link)**:
-It was discussed how it was built and how it is possible to build a model capable of predicting possible results and winner of the 2022 World Cup using Python and its libraries focused on data science and FIFA data extraction.
-
-* **[Speaker (Global Latinx tech Conference by GitHub) 2022 - How to build an ML model capable of predicting possible results of the 2022 World Cup](https://drive.google.com/file/d/1T2SOrl79ufMS4NxZOTufaroD7UmCBVZW/view?usp=sharing)**:
-It was discussed how it was built and how it is possible to build a model capable of predicting possible results and winner of the 2022 World Cup using Python and its libraries focused on data science and FIFA data extraction.
-
-* **[The first three months of 2020 - Python analysis of the first impact of covid-19 - Northeast Python 2022](https://drive.google.com/file/d/1K9MBVQ8Izp-TevcEIAnKRDcko4DhmaxW/view?usp=sharing)**:
-It was a lecture to present the results of the analysis carried out with Python on covid-19 data from 01/22/2020 to 03/09/2020, a period in which some countries such as China had already suffered a major impact from covid-19.
-
-* **[What happens if you join Spotify and Python and Data Science - Python Brazil 2020](https://youtu.be/WKIhTSt9Rw4?list=PLDC3uVLxaEQ1WSPtxRdtZk9hdnR6Zmod2)**:
-In the lecture, the Spotify API was presented and how it can be useful for us developers and especially data professionals. From this, it was seen how to collect and analyze Spotify data, just using the Python programming language.
-
-* **[Data Science and How to Maintain Good Practices When Building Data Visualizations - Technology Week - University Uninassau](https://drive.google.com/file/d/1EkEcB4WO4ggZTJzeFr817qpnvRRwOe5D/view?usp=sharing)**:
-The lecture presented at Uninassau College Technology Week aimed to introduce students to this world of Data Science. Being talked about data science nowadays, the fact that it is an interdisciplinary area and not just linked to the technology area, how students could take their first steps to get into the data science market and how to maintain good practices when building data visualizations.
-
----
-
-## Articles:
-
-These are some of the articles I wrote for my [linkedin](https://www.linkedin.com/in/luislauriano), on linkedin, my articles tend to have more insights from the projects, curiosities and doubts about data science, machine learning and pains faced when building projects with a more opinionated and informal character.
-
-* **[Recommendation System and Netflix](https://www.linkedin.com/pulse/sistema-de-recomenda%C3%A7%C3%A3o-e-netflix-luis-vinicius/)**:
-With the advancement of technology, we are increasingly familiar with this type of system, even without knowing how it works, and recommendation systems have become very important in the online sales industry of sites such as Amazon, Submarino and in the entertainment business. , more specifically streaming services like Youtube and Netflix, because of their ability to influence users' choices.
-
-
-* **[Spotify & Python and Data Science - How to Collect Spotify Data with Python](http://luisvinicius.me/posts/como_coletar_dados_do_spo_1.html)**:
-Data collection is the first step of every Data Science project, if we choose not to collect a ready-made dataset, we must look for data sources that can be useful to build our database and extract the data from the sources.
-
-
-* **[Spotify and Python and Data Science - Building an Application with Python + Deploy with Heroku](https://www.linkedin.com/pulse/spotify-python-data-science-construindo-uma-com-deploy-vinicius/)**:
-This article is an excerpt from my project Spotify & Python & Data Science - Analyzing Artist Data NexoAnnexo. After finishing the project, I aimed to build with Streamlit an application in which I could present graphics and insights that were taken from the project, in a more presentable way beyond Google Colab and Jupyter Notebook.
-
-
-
-More articles in [linkedin](https://www.linkedin.com/in/luislauriano)
 
 ---
 
